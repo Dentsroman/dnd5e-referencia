@@ -3,7 +3,7 @@ dnd5e-referencia
 
 Referencia Rápida para D&amp;D 5e
 
-https://cylira.github.io/dnd5e-referencia/
+https://Dentsroman.github.io/dnd5e-referencia/
 
 Icons
 ==============
