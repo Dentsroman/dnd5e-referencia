@@ -1,6 +1,6 @@
 data_environment_obscurance = [
     {
-        title: "Ligeramente obscuro",
+        title: "Ligeramente oscuro",
         icon: "bleeding-eye",
         subtitle: "Desventaja en Percepción",
         description: "Luz tenue, neblinas dispersas, follaje moderado",
@@ -10,13 +10,13 @@ data_environment_obscurance = [
         ]
     },
     {
-        title: "Muy obscuro",
+        title: "Muy oscuro",
         icon: "lightning-tear",
         subtitle: "Considerado Cegado",
-        description: "Obscuridad, niebla opaca, follaje denso",
+        description: "Oscuridad, niebla opaca, follaje denso",
         reference: "PHB, pg. 183.",
         bullets: [
-            "Una criatura en una área muy obscura sufre los efectos del <b>estado cegado</b>."
+            "Una criatura en una área muy oscura sufre los efectos del <b>estado cegado</b>."
         ]
     }
 ]
@@ -35,24 +35,24 @@ data_environment_light = [
     {
         title: "Luz tenue",
         icon: "semi-closed-eye",
-        subtitle: "Ligeramente obscuro",
+        subtitle: "Ligeramente oscuro",
         description: "Luz tenue también llamada sombras",
         reference: "PHB, pg. 183.",
         bullets: [
             "Hace que la zona esté <b>ligeramente obscura</b>.",
-            "Una zona de este tipo suele hacer de frontera entre una de luz brillante, como la que crea una antorcha, y la obscuridad circundante.",
+            "Una zona de este tipo suele hacer de frontera entre una de luz brillante, como la que crea una antorcha, y la oscuridad circundante.",
             "La luz suave del ocaso o el amanecer se considera luz tenue. Una noche de luna llena especialmente brillante bañará la tierra de luz tenue."
         ]
     },
     {
-        title: "Obscuridad",
+        title: "Oscuridad",
         icon: "worried-eyes",
-        subtitle: "Muy obscuro",
-        description: "La obscuridad hace que la zona esté muy obscura",
+        subtitle: "Muy oscuro",
+        description: "La oscuridad hace que la zona esté muy oscura",
         reference: "PHB, pg. 183.",
         bullets: [
-            "Crea una zona <b>muy obscura</b>.",
-            "Los personajes se encuentran con la obscuridad cuando están en exteriores por la noche (incluso en la mayoría de las noches con la luna visible), en el interior de una mazmorra sin iluminar o cirpta subterránea, o en una zona de obscuridad mágica."
+            "Crea una zona <b>muy oscura</b>.",
+            "Los personajes se encuentran con la oscuridad cuando están en exteriores por la noche (incluso en la mayoría de las noches con la luna visible), en el interior de una mazmorra sin iluminar o cirpta subterránea, o en una zona de oscuridad mágica."
         ]
     }
 ]
@@ -69,15 +69,15 @@ data_environment_vision = [
         ]
     },
     {
-        title: "Visión en la obscuridad",
+        title: "Visión en la oscuridad",
         icon: "semi-closed-eye",
-        subtitle: "Vision limitada en la obscuridad",
-        description: "Una criatura con visión en la obscuridad puede ver mejor en lo obscuro o con poca luz dentro de cierto radio",
+        subtitle: "Vision limitada en la oscuridad",
+        description: "Una criatura con visión en la oscuridad puede ver mejor en lo obscuro o con poca luz dentro de cierto radio",
         reference: "PHB, pgs. 183-184.",
         bullets: [
-            "Una criatura con visión en la obscuridad puede ver, dentro del alcance especificado, <i>con luz tenue como si hubiera luz brillante y con obscuridad como si hubiera luz tenue</b>,por lo que las zonas sin luz únicamente estarán ligeramente obscuras en lo que a dicha criatura respecta.",
-            "Sin embargo, no puede distinguir colores en la obscuridad, sólo tonos de gris.",
-            "Muchas criaturas de los mundos de D&D, y en especial aquellas que viven bajo tierra, poseen visión en la obscuridad."
+            "Una criatura con visión en la oscuridad puede ver, dentro del alcance especificado, <i>con luz tenue como si hubiera luz brillante y con oscuridad como si hubiera luz tenue</b>,por lo que las zonas sin luz únicamente estarán ligeramente obscuras en lo que a dicha criatura respecta.",
+            "Sin embargo, no puede distinguir colores en la oscuridad, sólo tonos de gris.",
+            "Muchas criaturas de los mundos de D&D, y en especial aquellas que viven bajo tierra, poseen visión en la oscuridad."
         ]
     },
     {
